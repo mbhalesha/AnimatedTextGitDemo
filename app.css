@@ -1,0 +1,12 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: azure;
+}
+
+h1 {
+  font-size: 10rem;
+  font-family: "Tenali Ramakrishna", sans-serif;
+}
